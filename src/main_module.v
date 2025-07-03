@@ -1,5 +1,3 @@
-// Generator : SpinalHDL v1.11.0    git head : 63852c61e498798f4e293594ce53fcb02c45eb6b
-// Component : ita_requantizer
 
 `timescale 1ns/1ps
 
